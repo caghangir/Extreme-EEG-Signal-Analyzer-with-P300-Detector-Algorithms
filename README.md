@@ -17,6 +17,10 @@ Basically, this Python code covers these fields;
 * Other Spectral Features;
   - Hurst exponent
   - Detrended Fluctuation Analysis
+  - Hjorth mobility and complexity of a time series
+  - Hjorth Fractal Dimension of a time series
+  - Petrosian Fractal Dimension
+  
 * Mel-spectrogram
 * P300 Detection Algorithms
 * Plot Variety of P300
