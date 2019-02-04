@@ -1,3 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Extreme EEG Signal Analyzer with P300 Detector           %
+% Algorithms                                               %
+%                                                          %
+% Copyright (C) 2019 Cagatay Demirel. All rights reserved. %
+%                    demirelc16@itu.edu.tr                 %
+%                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 from __future__ import division
 import numpy as np
 import matplotlib.pyplot as plt
